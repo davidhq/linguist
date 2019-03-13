@@ -5253,6 +5253,7 @@ Vyper:
   color: "#42F669"
   ace_mode: text
   tm_scope: source.vyper
+  language_id: 1055641948
 Wavefront Material:
   type: data
   extensions:
